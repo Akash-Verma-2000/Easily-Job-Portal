@@ -58,14 +58,14 @@ This Job Portal Web Application is a comprehensive platform developed using Node
 - **`src/`** Main application code.  
 
      - **`controller/`**
-         - **`form.controller.js`** This file is handling all the form action.
+         - **`form.controller.js`** This file is handling all the form actions.
 
-         - **`router.controller.js`** This file is handling all the form action.
+         - **`router.controller.js`** This file is handling all the form actions.
 
      - **`middleware`**
-        - **`auth.middleware.js file`** This is file has all the authentication codes.
+        - **`auth.middleware.js file`** This file has all the authentication codes.
 
-        - **`file-upload.middleware.js file`** This file handles all the uploads using multer library.
+        - **`file-upload.middleware.js file`** This file handles all the uploads using the multer library.
 
      - **`model/`**
 
@@ -81,19 +81,19 @@ This Job Portal Web Application is a comprehensive platform developed using Node
 
      - **`views/`**:All the static files are in this folder. 
 
-        - **`images/`** This folder has all the images used on in the application.
+        - **`images/`** This folder has all the images used in the application.
 
         - **`scripts/`** 
 
-            - **`universal-scripts.js`** This file is handeling all the scripts of this application.
+            - **`universal-scripts.js`** This file is handling all the scripts of this application.
 
         - **`styles/`**
 
-            - **`universal-styles.css`** This is file has all styles of the application.
+            - **`universal-styles.css`** This file has all styles of the application.
         
         - **`404.ejs`** Error page of the application.
 
-        - **`applicants-list-page.ejs`** This is page is representing the list of all the applicants applied for a specific job.
+        - **`applicants-list-page.ejs`** This page represents the list of all the applicants who applied for a specific job.
 
         - **`apply-form-page.ejs`** Application form for the job.
 
@@ -124,15 +124,15 @@ This Job Portal Web Application is a comprehensive platform developed using Node
 
 ## Dependencies
 
-  - **ejs**: For hanling dynamic layouts.
+  - **ejs**: For handling dynamic layouts.
 
   - **express**: Framework form node.js.
 
   - **express-ejs-layouts**: For layouts to prevent code redundancy.
 
-  - **express-session**: For authentications and hanling cookies.
+  - **express-session**: For authentications and handling cookies.
 
-  - **multer**: For hanling multipart form data.
+  - **multer**: For handling multipart form data.
 
   - **nodemailer**: For email notifications.
 
