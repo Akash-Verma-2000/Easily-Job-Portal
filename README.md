@@ -1,6 +1,6 @@
 # Easily-The Job Portal
 
-This Job Portal Web Application is a comprehensive platform developed using Node.js and Express.js, providing a seamless experience for both recruiters and job seekers. Built with HTML, CSS, JavaScript, Bootstrap, and leveraging the power of server-side scripting with Node.js, this application simplifies the job search and recruitment process
+This Job Portal Web Application is a comprehensive platform developed using Node.js and Express.js, providing a seamless experience for both recruiters and job seekers. Built with HTML, CSS, JavaScript, and Bootstrap, and leveraging the power of server-side scripting with Node.js, this application simplifies the job search and recruitment process
 
 
 ## Technologies
