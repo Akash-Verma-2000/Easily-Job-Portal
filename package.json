@@ -12,7 +12,7 @@
   "description": "This is an node.js application called easily basically developed for finding and posting jobs.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Akash Verma",
   "license": "ISC",

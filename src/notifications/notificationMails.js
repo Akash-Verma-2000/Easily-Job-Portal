@@ -8,8 +8,8 @@ export default class NotificationMail {
         const transporter = nodemailer.createTransport({
             service: 'gmail',
             auth: {
-                user: 'sctakashsikarvar1999@gmail.com',
-                pass: 'svlt vmpt kqaj gkcu',
+                user: "PLEASE WRITE YOUR EMAIL",
+                pass: "PLEASE WRITE YOUR PASSWORD"
             },
         });
         // CONFIGURE EMAIL CONTENT 
